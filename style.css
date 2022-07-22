@@ -1,12 +1,21 @@
 body {
-	background: #cccccc
+	
 }
 
 #banner {
 	width: 100%;
 }
 
-h1 {
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.tirulo-centralizado {
 	 text-align: center
 }
 
@@ -22,3 +31,22 @@ em strong {
 	color:  #FF0000;
 }
 
+.itens {
+	font-style: italic 
+}
+
+.benefícios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+ 
+ .imagembeneficios {
+ 	width: 50%;
+ }
