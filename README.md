@@ -1,3 +1,4 @@
-# sitealura
+#sitebarbearia
 
-vou fazer o site alura
+vou fazer o site da barbearia
+
